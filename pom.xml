@@ -96,6 +96,7 @@
 				<configuration>
 					<sources>
 						<source>${project.basedir}/src/main/resources/hello-world.xsd</source>
+						<source>${project.basedir}/src/main/resources/user.xsd</source>
 					</sources>
 				</configuration>
 			</plugin>
